@@ -44,3 +44,8 @@ To align the code with the published paper table, I changed the threshold from '
 The final reproduced results are saved in:
 
 -`table_a3_reproduced.csv`
+
+
+## Final submission note
+
+The submitted notebook reproduces a simplified summary version of Appendix C, Table A3.
